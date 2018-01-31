@@ -36,7 +36,7 @@ public class SceneLoader : MonoBehaviour {
 
   IEnumerator UnloadAsyncScene(string _sceneName)
   {
-    AsyncOperation asyncUnload = SceneManager.LoadSceneAsync(_sceneName);
+    AsyncOperation asyncUnload = SceneManager.UnloadSceneAsync(_sceneName);
 
     while (!asyncUnload.isDone)
     {

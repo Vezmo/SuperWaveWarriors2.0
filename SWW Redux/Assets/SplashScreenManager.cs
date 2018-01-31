@@ -87,6 +87,7 @@ public class SplashScreenManager : MonoBehaviour
 
   void LastSplashScreenCompleted()
   {
-
+    SceneLoader.Instance.UnloadSplashScreenScene();
+    SceneLoader.Instance.LoadMainMenuScene();
   }
 }
