@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: 18c6c1ea3c49dfd4699efdd4d2607ca7
+timeCreated: 1517533618
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SWW SS x13 ZeonR_0
+    21300002: SWW SS x13 ZeonR_1
+    21300004: SWW SS x13 ZeonR_2
+    21300006: SWW SS x13 ZeonR_3
+    21300008: SWW SS x13 ZeonR_4
+    21300010: SWW SS x13 ZeonR_5
+    21300012: SWW SS x13 ZeonR_6
+    21300014: SWW SS x13 ZeonR_7
+    21300016: SWW SS x13 ZeonR_8
+    21300018: SWW SS x13 ZeonR_9
+    21300020: SWW SS x13 ZeonR_10
+    21300022: SWW SS x13 ZeonR_11
+    21300024: SWW SS x13 ZeonR_12
+    21300026: SWW SS x13 ZeonR_13
+    21300028: SWW SS x13 ZeonR_14
+    21300030: SWW SS x13 ZeonR_15
+    21300032: SWW SS x13 ZeonR_16
+    21300034: SWW SS x13 ZeonR_17
+    21300036: SWW SS x13 ZeonR_18
+    21300038: SWW SS x13 ZeonR_19
+    21300040: SWW SS x13 ZeonR_20
+    21300042: SWW SS x13 ZeonR_21
+    21300044: SWW SS x13 ZeonR_22
+    21300046: SWW SS x13 ZeonR_23
+    21300048: SWW SS x13 ZeonR_24
+    21300050: SWW SS x13 ZeonR_25
+    21300052: SWW SS x13 ZeonR_26
+    21300054: SWW SS x13 ZeonR_27
+    21300056: SWW SS x13 ZeonR_28
+    21300058: SWW SS x13 ZeonR_29
+    21300060: SWW SS x13 ZeonR_30
+    21300062: SWW SS x13 ZeonR_31
+    21300064: SWW SS x13 ZeonR_32
+    21300066: SWW SS x13 ZeonR_33
+    21300068: SWW SS x13 ZeonR_34
+    21300070: SWW SS x13 ZeonR_35
+    21300072: SWW SS x13 ZeonR_36
+    21300074: SWW SS x13 ZeonR_37
+    21300076: SWW SS x13 ZeonR_38
+    21300078: SWW SS x13 ZeonR_39
+    21300080: SWW SS x13 ZeonR_40
+    21300082: SWW SS x13 ZeonR_41
+    21300084: SWW SS x13 ZeonR_42
+    21300086: SWW SS x13 ZeonR_43
+    21300088: SWW SS x13 ZeonR_44
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_2
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_3
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_4
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_5
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_6
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_7
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_8
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_9
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_10
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_11
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 2665
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2132
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2132
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_14
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2132
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_15
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2132
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_16
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2132
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_17
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2132
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1599
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1599
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_20
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1599
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_21
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1599
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1066
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_24
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1066
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_25
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1066
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_26
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1066
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_27
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1066
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_28
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 1066
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_29
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 1066
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 533
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_32
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 533
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_33
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 533
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_34
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 533
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_35
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 533
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_36
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 533
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_37
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 533
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_38
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 533
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_40
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_41
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_42
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 0
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_43
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 0
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 ZeonR_44
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 0
+        width: 403
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
