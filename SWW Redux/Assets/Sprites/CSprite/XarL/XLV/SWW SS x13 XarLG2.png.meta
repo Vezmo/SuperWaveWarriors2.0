@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: 7d7e57b26c041ae4bb27797b57268703
+timeCreated: 1517588904
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SWW SS x13 XarLG2_0
+    21300002: SWW SS x13 XarLG2_1
+    21300004: SWW SS x13 XarLG2_2
+    21300006: SWW SS x13 XarLG2_3
+    21300008: SWW SS x13 XarLG2_4
+    21300010: SWW SS x13 XarLG2_5
+    21300012: SWW SS x13 XarLG2_6
+    21300014: SWW SS x13 XarLG2_7
+    21300016: SWW SS x13 XarLG2_8
+    21300018: SWW SS x13 XarLG2_9
+    21300020: SWW SS x13 XarLG2_10
+    21300022: SWW SS x13 XarLG2_11
+    21300024: SWW SS x13 XarLG2_12
+    21300026: SWW SS x13 XarLG2_13
+    21300028: SWW SS x13 XarLG2_14
+    21300030: SWW SS x13 XarLG2_15
+    21300032: SWW SS x13 XarLG2_16
+    21300034: SWW SS x13 XarLG2_17
+    21300036: SWW SS x13 XarLG2_18
+    21300038: SWW SS x13 XarLG2_19
+    21300040: SWW SS x13 XarLG2_20
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2132
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2132
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_2
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2132
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_3
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 2132
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_4
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2132
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_5
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 2132
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_6
+      rect:
+        serializedVersion: 2
+        x: 4836
+        y: 2132
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_7
+      rect:
+        serializedVersion: 2
+        x: 5642
+        y: 2132
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_8
+      rect:
+        serializedVersion: 2
+        x: 6448
+        y: 2132
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_10
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1066
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_11
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1066
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_12
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 1066
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_14
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_15
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 0
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_16
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 0
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_17
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 0
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_18
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 0
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_19
+      rect:
+        serializedVersion: 2
+        x: 4836
+        y: 0
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SWW SS x13 XarLG2_20
+      rect:
+        serializedVersion: 2
+        x: 5642
+        y: 0
+        width: 806
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
